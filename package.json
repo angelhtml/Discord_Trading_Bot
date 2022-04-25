@@ -1,0 +1,27 @@
+{
+  "name": "tradebot",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm i",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "chalk": "^4.1.0",
+    "cors": "^2.8.5",
+    "discord.js": "^13.6.0",
+    "diskdb": "^0.1.17",
+    "express": "^4.17.3",
+    "mingo": "^6.0.5",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.4",
+    "socket.io": "^4.4.1",
+    "stock-technical-indicators": "^2.0.1",
+    "technicalindicators": "^3.1.0",
+    "vwap": "0.0.2"
+  }
+}
