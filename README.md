@@ -26,5 +26,5 @@
 <img src='https://iili.io/VPNDVR.png'/>
 <p>📌also you can connect this bot to your website</p>
 <img src='https://iili.io/VPvwqx.png'/>
-<h2>😉If you have question about this BOT you can ask to me,I'll be available to help you</h2>
+<h2>😉If you have any questions about this BOT you can ask to me,I'll be available to help you</h2>
 <p>New updates will be ready soon!</p>
