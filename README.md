@@ -12,7 +12,7 @@
 </ul>
 <h3>📗Requirement</h3><hr />
 <ul>
-  <li>✔Node js >= V12.0.0</li>
+  <li>✔Node js >= V16.0.0</li>
   <li>✔Mongo DB cluster</li>
   <li>✔Discord Developer Account (Discord Bot Token)</li>
 </ul>
