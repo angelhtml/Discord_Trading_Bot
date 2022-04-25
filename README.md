@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'/>
 </p>
-<h3>⚙ Used strategies</h3><hr />
+<h3>⚙strategies</h3><hr />
 <ul>
   <li>✔Supertrend</li>
   <li>✔ROC</li>
