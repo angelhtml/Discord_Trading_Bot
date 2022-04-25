@@ -673,7 +673,7 @@ function run() {
 
 setInterval(() => {
     tick()
-},1000*60*1 );
+},1000*60*15 );
 }
 try{
 run()
