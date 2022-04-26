@@ -29,10 +29,6 @@ app.use(express.static('public'));
 var db = require('diskdb');
 
 const mongoose = require('mongoose')
-//db = db.connect("./db", ['buy']);
-
-
-
 // let rsi = new RSI({ values: clossingValues, period: 16 })
 
 
