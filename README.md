@@ -9,7 +9,7 @@
   <li>✔Supertrend</li>
   <li>✔ROC</li>
   <li>✔RSI</li>
-  <li>Win Rate: under testing<li>
+  <li>📎Win Rate: under testing</li>
 </ul>
 <h3>📗Requirement</h3><hr />
 <ul>
