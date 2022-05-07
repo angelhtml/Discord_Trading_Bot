@@ -46,8 +46,6 @@ const mongoose = require('mongoose')
 // 
 // let macd = new MACD({ values:clossingValues ,  fastPeriod: 12,slowPeriod: 26,signalPeriod: 9 ,SimpleMAOscillator: true,SimpleMASignal: true })
 
-
-
 // let hmadata =[]
 
 // for (let index = 0; index < wma.result.length; index++) {
