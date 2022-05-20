@@ -54,8 +54,6 @@ const mongoose = require('mongoose')
 //     const re = element2 - element
 //     hmadata.push(re)
 // }
-
-
 // const HMA= new WMA({ values: hmadata, period: 4 }) 
 
 mongoose.connect('XXXXXXXXXXXXXXXXXXXX YOUR MONGO-DB ACCOUNT XXXXXXXXXXXXXXXXXXXX', ()=>{
