@@ -1,4 +1,4 @@
-# Discord_Trader_Bot V1.0.04 📈
+# Discord_Trader_Bot V1.0.04 💸
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.04-red"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
