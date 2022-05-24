@@ -11,6 +11,11 @@
   <li>✔RSI</li>
   <li>✨best win rate for XLM-USDT</li>
 </ul>
+<p align="center">
+  <img src='https://iili.io/XCnBBR.png'/>
+  <h1>DOGE-USDT, Date:1650885358668 📈</h>
+  <img src='https://iili.io/XColoJ.png'/>
+</p>
 <h3>📗Requirement</h3><hr />
 <ul>
   <li>✔Node js >= V16.0.0</li>
