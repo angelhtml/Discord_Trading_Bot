@@ -17,7 +17,7 @@
   <h3>ETH-USDT, Date: Wed May 04 2022 23:19:44 /stoploss 📉</h3>
   <img src='https://i.postimg.cc/3x351d0N/Capturethe.png'/>
 </p>
-<h3>📕Requirement</h3><hr />
+<h3>📒Requirement</h3><hr />
 <ul>
   <li>✔Node js >= V16.0.0</li>
   <li>✔Mongo DB cluster</li>
