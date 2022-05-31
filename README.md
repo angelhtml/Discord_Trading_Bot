@@ -1,4 +1,4 @@
-# Discord_Trader_Bot V1.0.04💰
+# Discord_Trader_Bot V1.0.04
 <p align="center">
   <img src="https://iili.io/XSA0gt.md.png"/>
 </p>
