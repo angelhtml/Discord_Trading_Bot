@@ -31,16 +31,12 @@ var db = require('diskdb');
 const mongoose = require('mongoose')
 // let rsi = new RSI({ values: clossingValues, period: 16 })
 
-
 // let sma = new SMA({ values: clossingValues, period: 16 })
-
 
 // let ema = new EMA({ values: clossingValues, period: 16 })
 
-
 // let wma = new WMA({ values: clossingValues, period: 16 })
 // let wma2 = new WMA({ values: clossingValues, period: 8 })
-
 
 // let adx = new ADX({ low:lowValues , high:highValues  , close: clossingValues, period: 16 })
 // 
