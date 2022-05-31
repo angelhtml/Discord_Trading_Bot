@@ -1,6 +1,6 @@
 # Discord_Trader_Bot V1.0.04💰
 <p align="center">
-  <img src="https://iili.io/X8Z9s9.png"/>
+  <img src="https://iili.io/XSA0gt.md.png"/>
 </p>
 <p align="center">
   <img src="https://dcbadge.vercel.app/api/shield/509271102653202433"/>
