@@ -1,5 +1,5 @@
 # Discord_Trader_Bot V1.0.04
-<p align="center">
+<p align="center"> 
   <img src="https://iili.io/XSA0gt.md.png" width='300px'/>
 </p>
 <p align="center">
