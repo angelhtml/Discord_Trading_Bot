@@ -1,4 +1,4 @@
-# Discord Cryptocurrency Trader Bot V1.0.04
+# Discord Cryptocurrency Trader Bot 
 <p align="center"> 
   <img src="https://iili.io/XSA0gt.md.png" width='300px'/>
 </p>
