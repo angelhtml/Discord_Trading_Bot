@@ -35,6 +35,9 @@
 <p>1️⃣upgrade your discord account to developer,and then create a bot and generate a token for that and copy your token and pasted on index.js</p>
 <p>2️⃣create a mongoDB cluster and paste the access url in index.js</p>
 <p>3️⃣and the last use package.json and install npms and then use node index.js</p>
+<p align="center">
+  <img src="https://iili.io/hzn9xj.png"/>
+</p>
 <h3>📜Descriptions</h3><hr />
 <p>⏰this Bot can scanning all of market every 15min and then will be select a position and send a message like this on your discord server</p>
 <img src='https://iili.io/VPNDVR.png'/>
