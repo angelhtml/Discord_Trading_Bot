@@ -1,3 +1,10 @@
+const MOngoDB_cluster = "XXXXXXXXXXXXXXXXXXXX YOUR MONGO-DB ACCOUNT XXXXXXXXXXXXXXXXXXXX"
+const Discord_tocken =  'XXXXXXXXXXXXXXXXXXXXXXX YOUR DISCORD TOKEN XXXXXXXXXXXXXXXXXXXX'
+const Discord_Channel_Id = 'xxxxxxxxxxxxxxxxx YOUR DISCORD CHANNEL ID xxxxxxxxxxxxxxxxxx'
+
+
+
+
 const axios = require('axios').default;
 //const moment = require("moment");
 const RSI = require('technicalindicators').RSI
@@ -52,7 +59,7 @@ const mongoose = require('mongoose')
 // }
 // const HMA= new WMA({ values: hmadata, period: 4 }) 
 
-mongoose.connect('XXXXXXXXXXXXXXXXXXXX YOUR MONGO-DB ACCOUNT XXXXXXXXXXXXXXXXXXXX', ()=>{
+mongoose.connect(MOngoDB_cluster, ()=>{
     console.log('your db is connected now')
   })
 
@@ -407,7 +414,7 @@ const infos = new informations ({
    //console.log(listOfUsdt[index],sumRsi[967])
 if( /*25<= sumRsi[967] && sumRsi[967] <= 30   &&*/      (/*EMA_Buy == true  &&  trade_percent_nev == true  &&*/  profit_state_pos == true   &&  position_state_buy == true /*&& ema_history_buy == true*/  && Roc_Buy_position == true && Roc_Buy == true && direction_Buy == true) || ( /*EMA_Buy == true  &&  trade_percent_nev == true   &&*/  position_state_buy == true /*&& ema_history_buy == true*/ && Roc_Buy_position == true && Supertrande_stoploss_Buy == true && direction_Buy == true) ){
     let Net_Profit = blance - new_history- fee
-    client.channels.cache.get('YOUR DISCORD CHANNEL ID').send(`>>> Name:  **${listOfUsdt[index]}**\n :green_circle: Buy : ${last}\n :round_pushpin: ${(Net_Profit/blance)*100}\n :arrow_up_small: ${Net_Profit}\n :recycle:  ${emaResult[985]}\n :page_facing_up: Fee:${fee} `)
+    client.channels.cache.get(Discord_Channel_Id).send(`>>> Name:  **${listOfUsdt[index]}**\n :green_circle: Buy : ${last}\n :round_pushpin: ${(Net_Profit/blance)*100}\n :arrow_up_small: ${Net_Profit}\n :recycle:  ${emaResult[985]}\n :page_facing_up: Fee:${fee} `)
 
     const coinsSchema = {
         price : Number,
@@ -452,7 +459,7 @@ if( /*25<= sumRsi[967] && sumRsi[967] <= 30   &&*/      (/*EMA_Buy == true  &&  
 
 }else if( /*70<= sumRsi[967] && sumRsi[967] <= 75 &&*/ (/*EMA_Sell == true  &&  trade_percent_pos == true  &&*/  profit_state_nev == true   &&  position_state_sell == true /*&& ema_history_sell == true*/  && Roc_Sell_position == true && Roc_Sell == true && direction_Sell == true) || (/*EMA_Sell == true  &&  trade_percent_pos == true   &&*/  position_state_sell == true /*&& ema_history_sell == true*/ && Roc_Sell_position == true && Supertrande_stoploss_Sell == true && direction_Sell == true) ){
     Net_Profit = new_history - blance - fee
-    client.channels.cache.get('YOUR DISCORD CHANNEL ID').send(` >>> Name: **${listOfUsdt[index]}**\n :red_circle: sell : ${last}\n :round_pushpin: ${(Net_Profit/blance)*100}\n :arrow_up_small: ${Net_Profit}\n :recycle:  ${emaResult[985]}\n :page_facing_up: Fee:${fee}`)
+    client.channels.cache.get(Discord_Channel_Id).send(` >>> Name: **${listOfUsdt[index]}**\n :red_circle: sell : ${last}\n :round_pushpin: ${(Net_Profit/blance)*100}\n :arrow_up_small: ${Net_Profit}\n :recycle:  ${emaResult[985]}\n :page_facing_up: Fee:${fee}`)
     const coinsSchema = {
         price : Number,
         coin: String,
@@ -671,7 +678,7 @@ run()
 })
 
 
-client.login('XXXXXXXXXXXXXXXXXXXXXXX YOUR DISCORD TOKEN XXXXXXXXXXXXXXXXXXXX');
+client.login(Discord_tocken);
 app.listen(3520, function(){
     console.log('express server is running on port 3520');
 }) 
