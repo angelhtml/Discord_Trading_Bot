@@ -1,14 +1,14 @@
 {
   "name": "tradebot",
-  "version": "1.0.1",
+  "version": "1.0.04",
   "description": "",
   "main": "index.js",
   "scripts": {
     "build": "npm i",
     "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Angel",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.26.1",
     "chalk": "^4.1.0",
