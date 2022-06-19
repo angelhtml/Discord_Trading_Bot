@@ -18,7 +18,7 @@
   <li>✔RSI</li>
 </ul>
 <p align="center">
-  <img src='https://iili.io/XCnBBR.png' />
+  <img src='https://iili.io/XCnBBR.png'/>
   <h3>DOGE-USDT, Date: Mon Apr 25 2022 15:45:58 📈</h3>
   <img src='https://iili.io/XColoJ.png'/>
   <h3>ETH-USDT, Date: Wed May 04 2022 23:19:44 /stoploss 📉</h3>
