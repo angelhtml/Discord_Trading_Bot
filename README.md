@@ -38,6 +38,9 @@
 <p align="center">
   <img src="https://iili.io/hzn9xj.png"/>
 </p>
+
+<h4>if you have a problem like this, just read the issue</h4>
+<img src="https://iili.io/jCSMS1.png"/>
 <h3>📜Descriptions</h3><hr />
 <p>⏰this Bot can scanning all of market every 15min and then will be select a position and send a message like this on your discord server</p>
 <img src='https://iili.io/VPNDVR.png'/>
