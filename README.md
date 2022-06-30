@@ -28,7 +28,7 @@
 <ul>
   <li>✔Node js >= V16.0.0</li>
   <li>✔Mongo DB cluster</li>
-  <li>✔Discord Developer Account (Discord Bot Token)</li>
+  <li>✔Discord Developer Account (Discord Bot Token)</li> 
 </ul>
 <h3>How to use this⁉</h3><hr />
 <h4>🔴Using the signals of this bot for your trading is your own risk!!!</h4>
