@@ -1,4 +1,4 @@
-# Discord Cryptocurrency Trading Bot 
+# Discord Trading Bot 
 <p align="center"> 
   <img src="https://iili.io/XSA0gt.md.png" width='290px' alt="img"/>
 </p>
