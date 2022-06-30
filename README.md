@@ -1,15 +1,15 @@
 # Discord Cryptocurrency Trading Bot 
 <p align="center"> 
-  <img src="https://iili.io/XSA0gt.md.png" width='290px'/>
+  <img src="https://iili.io/XSA0gt.md.png" width='290px' alt="img"/>
 </p>
 <p align="center">
-  <img src="https://dcbadge.vercel.app/api/shield/509271102653202433"/> 
+  <img src="https://dcbadge.vercel.app/api/shield/509271102653202433" alt="img"/> 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Version-1.0.04-red"/>
-  <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="img"/>
+  <img src="https://img.shields.io/badge/Version-1.0.04-red" alt="img"/>
+  <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt="img"/>
 </p>
 <h3>⚔strategy</h3><hr />
 <ul>
@@ -18,11 +18,11 @@
   <li>✔RSI</li>
 </ul>
 <p align="center">
-  <img src='https://iili.io/XCnBBR.png'/>
+  <img src='https://iili.io/XCnBBR.png' alt="img"/>
   <h3>DOGE-USDT, Date: Mon Apr 25 2022 15:45:58 📈</h3>
-  <img src='https://iili.io/XColoJ.png'/>
+  <img src='https://iili.io/XColoJ.png' alt="img"/>
   <h3>ETH-USDT, Date: Wed May 04 2022 23:19:44 /stoploss 📉</h3>
-  <img src='https://i.postimg.cc/3x351d0N/Capturethe.png'/>
+  <img src='https://i.postimg.cc/3x351d0N/Capturethe.png' alt="img"/>
 </p>
 <h3>📓Requirement</h3><hr />
 <ul>
@@ -36,14 +36,16 @@
 <p>2️⃣create a mongoDB cluster and paste the access url in index.js</p>
 <p>3️⃣and the last use package.json and install npms and then use node index.js</p>
 <p align="center">
-  <img src="https://iili.io/hzn9xj.png"/>
+  <img src="https://iili.io/hzn9xj.png" alt="img"/>
 </p>
 
 <h4>if you have a problem like this, just read the help me issue</h4>
-<img src="https://iili.io/jCSMS1.png"/>
+<img src="https://iili.io/jCSMS1.png" alt="img"/>
 <h3>📜Descriptions</h3><hr />
 <p>⏰this Bot can scanning all of market every 2min and then will be select a position and send a message like this on your discord server</p>
-<img src='https://iili.io/VPNDVR.png' />
+<img src='https://iili.io/VPNDVR.png' alt="img"/>
+<p>♻you can change the rescan time from here</p>
+<img src="https://user-images.githubusercontent.com/82230757/176712629-f6bdf8d5-c491-4121-b685-349564cd0197.PNG" alt="img"/>
 <p>📌also you can connect this bot to your website</p>
-<img src='https://iili.io/WIeRJS.png'/>
+<img src='https://iili.io/WIeRJS.png' alt="img"/>
 <h2>If you have any questions about this BOT you can ask to me,I'll be available to help you</h2>
