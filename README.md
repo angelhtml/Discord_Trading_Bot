@@ -1,3 +1,4 @@
+<meta property="og:description" content="Discord Trading Bot.this Bot can scanning all of market every 2min and then will be select a position and send a message like this on your discord server">
 # Discord Trading Bot 
 <p align="center">
   <img src="https://iili.io/XSA0gt.md.png" width='290px' alt="img"/>
