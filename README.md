@@ -1,4 +1,13 @@
-<h1>Discord Trading Bot </h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="go-import" content="Discord Trading Bot,this Bot can scanning all of market every 2min and then will be select a position and send a message like this on your discord server">
+</head>
+<body>
+    <h1>Discord Trading Bot</h1>
 <p align="center">
   <img src="https://iili.io/XSA0gt.md.png" width='290px' alt="img"/>
 </p>
@@ -49,3 +58,6 @@
 <p>📌also you can connect this bot to your website</p>
 <img src='https://iili.io/WIeRJS.png' alt="img"/>
 <h2>If you have any questions about this BOT you can ask to me,I'll be available to help you</h2>
+
+</body>
+</html>
