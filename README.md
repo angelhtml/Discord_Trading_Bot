@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="go-import" content="Discord Trading Bot,this Bot can scanning all of market every 2min and then will be select a position and send a message like this on your discord server">
+    <meta property="og:description" content="Discord Trading Bot,this Bot can scanning all of market every 2min and then will be select a position and send a message like this on your discord server">
 </head>
 <body>
     <h1>Discord Trading Bot</h1>
