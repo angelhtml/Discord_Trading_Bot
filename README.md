@@ -55,7 +55,7 @@
 <h4>if you have a problem like this, just read the help me issue</h4>
 <img src="https://iili.io/jCSMS1.png" alt="img"/>
 <h3>📜Descriptions</h3><hr />
-<p>⏰this Bot can scanning all of market every 2min and then will be select a position and send a message like this on your discord server</p>
+<p>⏰this Bot can scanning all of market every 2mins and then will be select a position and send a message like this on your discord server</p>
 <img src='https://iili.io/VPNDVR.png' alt="img"/>
 <p>♻you can change the rescan time from here</p>
 <img src="https://user-images.githubusercontent.com/82230757/176712629-f6bdf8d5-c491-4121-b685-349564cd0197.PNG" alt="img"/>
