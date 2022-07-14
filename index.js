@@ -682,4 +682,4 @@ client.login(Discord_tocken);
 app.listen(3520, function(){
     console.log('express server is running on port 3520');
 }) 
-//RSI 14 & EMA 8
+//@Angelhtml
