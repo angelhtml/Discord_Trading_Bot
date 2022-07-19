@@ -30,6 +30,7 @@
   <li>✔Supertrend</li>
   <li>✔ROC</li>
   <li>✔RSI</li>
+
 </ul>
 <p align="center">
   <img src='https://iili.io/XCnBBR.png' alt="img"/>
