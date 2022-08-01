@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/code_style-XO-ff0000.svg" alt="XO"/>
 </p><hr />
   <p align="center">
-  <img src="https://iili.io/S8t2A7.md.webp" alt="discord trading bot" align="center"/>
+  <img src="https://iili.io/S8t2A7.webp" alt="discord trading bot" align="center"/>
   </p>
 <h3>⚔strategy</h3><hr />
 <ul>
