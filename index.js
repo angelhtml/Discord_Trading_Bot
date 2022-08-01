@@ -503,8 +503,6 @@ if( /*25<= sumRsi[967] && sumRsi[967] <= 30   &&*/      (/*EMA_Buy == true  &&  
       
 }
 else{
-
-        
         /*
         app.get("/doge", async (req, res) => {
             const coinlist = mongoose.models.coinlist || mongoose.model('coinlist', coinsSchema)
@@ -599,7 +597,6 @@ await informations.findOneAndUpdate({coin : listOfUsdt[index]},update)
            });  
             });
           
-            //console.log(position_state_buy,Roc_Buy_position,sumTrueRange,Supertrande_stoploss_Buy,direction_Buy)
         
 /*
 console.log(chalk.white.bgRed.bold(`Name==============================${listOfUsdt[index]}=================================`))
@@ -633,8 +630,6 @@ console.log(`ema buy history=== ${ema_history_buy}`)
 console.log('----------------------------------------------------------------------------------------------------------')
 */
 
-
-
 /*
 if ( (20 >= CHOP <= 45)&& (ema200.result[800] <= clossingValues[999] )  ) {
     
@@ -642,28 +637,9 @@ if ( (20 >= CHOP <= 45)&& (ema200.result[800] <= clossingValues[999] )  ) {
 
 }
 */
-
-
-
-
 }
-
-
- 
-
-
-
-
-
-
 }
-     
-
-
-
-
-
-
+    
 function run() {
 
 setInterval(() => {
@@ -677,9 +653,8 @@ run()
 }
 })
 
-
 client.login(Discord_tocken);
 app.listen(3520, function(){
     console.log('express server is running on port 3520');
 }) 
-//@Angelhtml
+//@Angelhtml , XO Code Style
