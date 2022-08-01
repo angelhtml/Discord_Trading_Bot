@@ -11,7 +11,10 @@
   <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt="img"/>
   <img src="https://img.shields.io/badge/Version-1.0.04-ff0000" alt="img"/>
   <img src="https://img.shields.io/badge/code_style-XO-ff0000.svg" alt="XO"/>
-</p>
+</p><hr />
+  <p align="center">
+  <img src="https://iili.io/S8t2A7.md.webp" alt="discord trading bot" align="center"/>
+  </p>
 <h3>⚔strategy</h3><hr />
 <ul>
   <li>✔Supertrend</li>
