@@ -1,6 +1,6 @@
 <h1>Discord Trading Bot</h1>
 <p align="center">
-  <img src="https://iili.io/XSA0gt.md.png" width='290px' alt="xo code style"/>
+  <img src="https://iili.io/XSA0gt.md.png" width='290px' alt="Angel code style"/>
 </p>
 <p align="center">
   <img src="https://dcbadge.vercel.app/api/shield/509271102653202433" alt="img"/> 
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="img"/>
   <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt="img"/>
   <img src="https://img.shields.io/badge/Version-1.0.04-ff0000" alt="img"/>
-  <img src="https://img.shields.io/badge/code_style-XO-ff0000.svg" alt="XO"/>
+  <img src="https://img.shields.io/badge/code_style-Angel-ff0000.svg" alt="XO"/>
 </p><hr />
   <p align="center">
   <img src="https://iili.io/S8t2A7.webp" alt="discord trading bot" align="center"/>
