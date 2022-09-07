@@ -43,7 +43,7 @@
   <img src="https://iili.io/hzn9xj.png" alt="img"/>
 </p>
 
-<h4>if you have a problem like this, just read the help me issue</h4>
+<h4>if you have a problem like this, just read the <a href='https://github.com/angelhtml/Discord_Trading_Bot/issues/8'>help me issue</a></h4>
 <img src="https://iili.io/jCSMS1.png" alt="img"/>
 <h3>📄Descriptions</h3><hr />
 <p>⏰this Bot can scanning all of market every couple minutes and then will be select a position and send a message like this on your discord server</p>
