@@ -39,9 +39,12 @@
 <p>1️⃣upgrade your discord account to developer,and then create a bot and generate a token for that and copy your token and pasted on index.js</p>
 <p>2️⃣create a mongoDB cluster and paste the access url in index.js</p>
 <p>3️⃣and the last use package.json and install npms and then use node index.js</p>
-<p align="center">
-  <img src="https://iili.io/hzn9xj.png" alt="img"/>
-</p>
+
+``` JavaScript
+const MOngoDB_cluster = "XXXXXXXXXXXXXXXXXXXX YOUR MONGO-DB ACCOUNT XXXXXXXXXXXXXXXXXXXX"
+const Discord_tocken =  'XXXXXXXXXXXXXXXXXXXXXXX YOUR DISCORD TOKEN XXXXXXXXXXXXXXXXXXXX'
+const Discord_Channel_Id = 'xxxxxxxxxxxxxxxxx YOUR DISCORD CHANNEL ID xxxxxxxxxxxxxxxxxx'
+```
 
 <h4>if you have a problem like this, just read the <a href='https://github.com/angelhtml/Discord_Trading_Bot/issues/8'>help me issue</a></h4>
 <img src="https://iili.io/jCSMS1.png" alt="img"/>
