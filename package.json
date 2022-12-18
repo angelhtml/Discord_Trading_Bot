@@ -7,7 +7,7 @@
     "build": "npm i",
     "start": "node index.js"
   },
-  "author": "Angel",
+  "author": "Angel_code_style",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.26.1",
