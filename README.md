@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="img"/>
   <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt="img"/>
   <img src="https://img.shields.io/badge/Version-1.0.04-ff0000" alt="img"/>
   <img src="https://img.shields.io/badge/code_style-Angel-ff0000.svg" alt="angel code style"/>
@@ -22,7 +21,7 @@
   <li>✔RSI</li>
 </ul>
 <p align="center">
-  <img src='https://iili.io/XCnBBR.png' alt="img"/>
+  <img src='https://iili.io/XCnBBR.png' alt="traderbot"/>
   <h3>DOGE-USDT, Date: Mon Apr 25 2022 15:45:58 📈</h3>
   <img src='https://iili.io/XColoJ.png' alt="img"/>
   <h3>ETH-USDT, Date: Wed May 04 2022 23:19:44 /stoploss 📉</h3>
