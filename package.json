@@ -1,7 +1,7 @@
 {
   "name": "Discord_Trading_Bot",
   "version": "1.0.04",
-  "description": "",
+  "description": "This Bot can scanning all of market every couple minutes and then will be select a position and send a message on your discord server",
   "main": "index.js",
   "scripts": {
     "build": "npm i",
