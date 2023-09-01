@@ -1,15 +1,12 @@
 <h1>Discord Trading Bot </h1>
-<p align="center">
-  <img src="https://iili.io/XSA0gt.md.png" width='290px' alt="Angel code style"/>
-</p>
-<p align="center">
-  <img src="https://dcbadge.vercel.app/api/shield/509271102653202433" alt="img"/> 
-</p>
+
 
 <p align="center">
   <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt="img"/>
   <img src="https://img.shields.io/badge/Version-1.0.04-ff0000" alt="img"/>
   <img src="https://img.shields.io/badge/code_style-Angel-ff0000.svg" alt="angel code style"/>
+  <br />
+  <a href="https://plisio.net/donate/zmQmnybe" target="_blank"><img src="https://plisio.net/img/donate/donate_light_icons_color.png" alt="Donate Crypto on Plisio" width="240" height="80" /></a>
 </p><hr />
   <p align="center">
   <img src="https://iili.io/S8t2A7.webp" alt="discord trading bot" align="center"/>
@@ -54,5 +51,7 @@ const Discord_Channel_Id = 'xxxxxxxxxxxxxxxxx YOUR DISCORD CHANNEL ID xxxxxxxxxx
 <img src="https://user-images.githubusercontent.com/82230757/176712629-f6bdf8d5-c491-4121-b685-349564cd0197.PNG" alt="img"/>
 <p>📌also you can connect this bot to your website</p>
 <img src='https://iili.io/WIeRJS.png' alt="img"/>
+<br />
 
-
+<p>Please support this project to getting more updates and features</p>
+<a href="https://plisio.net/donate/zmQmnybe" target="_blank"><img src="https://plisio.net/img/donate/donate_light_icons_color.png" alt="Donate Crypto on Plisio" width="240" height="80" /></a>
