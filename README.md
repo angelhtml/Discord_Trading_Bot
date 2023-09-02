@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt="img"/>
   <img src="https://img.shields.io/badge/Version-1.0.04-ff0000" alt="img"/>
+  <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt="img"/>
   <img src="https://img.shields.io/badge/code_style-Angel-ff0000.svg" alt="angel code style"/>
   <br />
   <a href="https://plisio.net/donate/zmQmnybe" target="_blank"><img src="https://plisio.net/img/donate/donate_light_icons_color.png" alt="Donate Crypto on Plisio" width="240" height="80" /></a>
