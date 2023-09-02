@@ -4,7 +4,6 @@ const Discord_Channel_Id = 'xxxxxxxxxxxxxxxxx YOUR DISCORD CHANNEL ID xxxxxxxxxx
 
 
 
-
 const axios = require('axios').default;
 //const moment = require("moment");
 const RSI = require('technicalindicators').RSI
