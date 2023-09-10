@@ -1,5 +1,6 @@
 <h1>Discord Trading Bot </h1>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.04-ff0000" alt="img"/>
   <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' alt="img"/>
